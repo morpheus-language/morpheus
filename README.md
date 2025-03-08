@@ -7,4 +7,4 @@
 </p>
 </div>
 
-> Is the main repository for _Morpheus_.
+> This repository contains the source code of _Morpheus_.
