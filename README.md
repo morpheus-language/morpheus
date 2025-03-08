@@ -6,7 +6,7 @@
   🔮 The Morpheus Programming Language 🔮
 </p>
 
-[Website[Morpheus]
+[Website][Morpheus]
 </div>
 
 [Morpheus]: 
